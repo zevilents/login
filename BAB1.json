@@ -1,0 +1,237 @@
+{
+  "bab": 1,
+  "judul": "Perkenalan & Kalimat Dasar",
+  "pengantar": "Kon'nichiwa, Minna-san! 🌸 Sensei di sini siap nemenin kalian gaspol belajar Bahasa Jepang dari nol di Bab 1 buku Minna no Nihongo! 🚀 Di bab ini, kita bakal belajar cara ngenalin diri dan bikin kalimat pernyataan simpel yang bakal kepake banget pas pertama kali ketemu orang Jepang. Udah siap buat jadi jago? Kuy, kita sikat materinya! 🔥",
+  "kosakata": {
+    "judul_jepang": "新出語彙",
+    "deskripsi": "Yuk, hafalin dulu 'peluru' kita buat bikin kalimat! Ini daftar kosakata esensial di Bab 1:",
+    "daftar": [
+      {
+        "kanji": "私",
+        "hiragana": "わたし",
+        "romaji": "watashi",
+        "arti": "Saya"
+      },
+      {
+        "kanji": null,
+        "hiragana": "あなた",
+        "romaji": "anata",
+        "arti": "Anda/Kamu (tapi ati-ati pakenya ya!)"
+      },
+      {
+        "kanji": null,
+        "hiragana": "あの人（あのひと）",
+        "romaji": "ano hito",
+        "arti": "Orang itu"
+      },
+      {
+        "kanji": null,
+        "hiragana": "皆さん（みなさん）",
+        "romaji": "minasan",
+        "arti": "Kalian semua / Bapak-Ibu sekalian"
+      },
+      {
+        "kanji": "先生",
+        "hiragana": "せんせい",
+        "romaji": "sensei",
+        "arti": "Guru / Dosen"
+      },
+      {
+        "kanji": "学生",
+        "hiragana": "がくせい",
+        "romaji": "gakusei",
+        "arti": "Mahasiswa"
+      },
+      {
+        "kanji": "会社員",
+        "hiragana": "かいしゃいん",
+        "romaji": "kaishain",
+        "arti": "Karyawan Perusahaan"
+      },
+      {
+        "kanji": "銀行員",
+        "hiragana": "ぎんこういん",
+        "romaji": "ginkouin",
+        "arti": "Pegawai Bank"
+      },
+      {
+        "kanji": "医者",
+        "hiragana": "いしゃ",
+        "romaji": "isha",
+        "arti": "Dokter"
+      },
+      {
+        "kanji": "研究者",
+        "hiragana": "けんきゅうしゃ",
+        "romaji": "kenkyuusha",
+        "arti": "Peneliti"
+      },
+      {
+        "kanji": "大学",
+        "hiragana": "だいがく",
+        "romaji": "daigaku",
+        "arti": "Universitas"
+      },
+      {
+        "kanji": "病院",
+        "hiragana": "びょういん",
+        "romaji": "byouin",
+        "arti": "Rumah Sakit"
+      },
+      {
+        "kanji": "誰",
+        "hiragana": "だれ",
+        "romaji": "dare",
+        "arti": "Siapa"
+      },
+      {
+        "kanji": "歳",
+        "hiragana": "さい",
+        "romaji": "sai",
+        "arti": "Umur (... tahun)"
+      },
+      {
+        "kanji": null,
+        "hiragana": "初めまして（はじめまして）",
+        "romaji": "hajimemashite",
+        "arti": "Senang bertemu denganmu (untuk pertama kali)"
+      },
+      {
+        "kanji": null,
+        "hiragana": "どうぞよろしくお願いします（どうぞよろしくおねがいします）",
+        "romaji": "douzo yoroshiku onegaishimasu",
+        "arti": "Mohon bantuannya / Senang berkenalan dengan Anda"
+      }
+    ]
+  },
+  "pola_kalimat": [
+    {
+      "nomor": 1,
+      "judul": "～は～です",
+      "makna": "Pola ini tuh pondasi paling penting buat bilang 'A adalah B'. Partikel は di sini fungsinya sebagai penanda topik. Jadi kita lagi bilang, 'Ngomong-ngomong soal A, dia itu adalah B'.",
+      "logika_arah_baca": "Dari depan ke belakang. Berbeda sama bahasa Indonesia yang nggak butuh kata kerja bantu, di Jepang wajib ada penutup biar sopan!",
+      "rumus": "[Kata Benda 1] は [Kata Benda 2] です",
+      "contoh_rumus": "私（わたし）(KB1) + は + 学生（がくせい）(KB2) + です。",
+      "kategori_penggunaan": [
+        "Ngenalin nama sendiri.",
+        "Nyebutin profesi atau status.",
+        "Nyebutin kewarganegaraan."
+      ],
+      "contoh_kehidupan_nyata": {
+        "kasual": "Pas lagi kumpul bareng temen baru di komunitas hobi.",
+        "formal": "Pas lagi sesi perkenalan di kantor baru atau ketemu klien."
+      },
+      "penggunaan_lanjutan": {
+        "deskripsi": "Kalo mau bilang 'Bukan', tinggal ganti です jadi じゃありません atau ではありません (lebih formal).",
+        "contoh": {
+          "jepang": "私は医者じゃありません",
+          "arti": "Saya bukan dokter"
+        }
+      },
+      "warning": [
+        "Partikel は ditulis pake hiragana 'ha', tapi WAJIB dibaca 'wa'. Jangan sampe typo pas ngomong ya!",
+        "Jangan lupain です di akhir kalimat, kalau nggak ada, nanti kedengerannya galak atau kurang sopan."
+      ],
+      "ringkasan": "Sesuatu は Sesuatu です = [Topik] adalah [Status/Nama].",
+      "contoh_kalimat": [
+        {
+          "jepang": "私はマイク・ミラーです。",
+          "romaji": "Watashi wa Maiku Miraa desu.",
+          "arti": "Saya adalah Mike Miller."
+        },
+        {
+          "jepang": "サントスさんはブラジル人です。",
+          "romaji": "Santosu-san wa Burajiru-jin desu.",
+          "arti": "Saudara Santos adalah orang Brazil."
+        },
+        {
+          "jepang": "私は会社員です。",
+          "romaji": "Watashi wa kaishain desu.",
+          "arti": "Saya adalah seorang karyawan perusahaan."
+        }
+      ]
+    },
+    {
+      "nomor": 2,
+      "judul": "～ですか",
+      "makna": "Ini adalah cara paling gampang buat nanya dalam bahasa Jepang. Tinggal tambahin 'ka' di akhir kalimat, langsung berubah jadi pertanyaan. Gak perlu ribet ubah struktur kalimat kaya di bahasa Inggris!",
+      "logika_arah_baca": "Sama kaya kalimat pernyataan, cuma di ujungnya dikasih tanda tanya suara (intonasi naik).",
+      "rumus": "[Kalimat Pernyataan] + か？",
+      "contoh_rumus": "あなたは学生です (Kamu mahasiswa) + か = あなたは学生ですか？ (Apakah kamu mahasiswa?)",
+      "kategori_penggunaan": [
+        "Nanya nama orang.",
+        "Nanya pekerjaan orang lain.",
+        "Konfirmasi informasi yang kita denger."
+      ],
+      "contoh_kehidupan_nyata": {
+        "kasual": "Nanya temen sekelas, 'Eh, kamu mahasiswa ya?'",
+        "formal": "Nanya ke tamu, 'Apakah Anda saudara Miller?'"
+      },
+      "penggunaan_lanjutan": {
+        "deskripsi": "Kalo jawabannya 'Iya', pake はい (Hai). Kalo 'Bukan', pake いいえ (Iie).",
+        "jawaban_lengkap": {
+          "ya": "はい、そうです (Ya, benar)",
+          "tidak": "いいえ、ちがいます (Bukan, salah)"
+        }
+      },
+      "warning": [
+        "Dalam tulisan Jepang formal, tanda tanya (?) sering diganti pake tanda titik (.) karena partikel 'ka' itu sendiri udah jadi tanda tanya. Tapi di chat gaul, boleh kok pake (?)."
+      ],
+      "ringkasan": "Tambahin か di akhir kalimat buat nanya apa aja!",
+      "contoh_kalimat": [
+        {
+          "jepang": "ミラーさんは学生ですか。",
+          "romaji": "Miraa-san wa gakusei desu ka.",
+          "arti": "Apakah saudara Miller seorang mahasiswa?"
+        },
+        {
+          "jepang": "いいえ、学生じゃありません。",
+          "romaji": "Iie, gakusei ja arimasen.",
+          "arti": "Tidak, dia bukan mahasiswa."
+        },
+        {
+          "jepang": "あの方はどなたですか。",
+          "romaji": "Ano kata wa donata desu ka.",
+          "arti": "Siapakah orang itu?"
+        }
+      ]
+    }
+  ],
+  "percakapan": {
+    "judul_jepang": "会話",
+    "judul": "初めまして (Senang Berkenalan dengan Anda)",
+    "deskripsi": "Ini dia cara ngenalin diri yang bener pas pertama kali ketemu orang di Jepang. Perhatiin alurnya ya!",
+    "dialog": [
+      {
+        "pembicara": "Yamada",
+        "jepang": "失礼ですが。",
+        "romaji": "Shitsurei desu ga.",
+        "arti": "Permisi."
+      },
+      {
+        "pembicara": "Miller",
+        "jepang": "マイク・ミラーです。",
+        "romaji": "Maiku Miraa desu.",
+        "arti": "Nama saya Mike Miller."
+      },
+      {
+        "pembicara": "Miller",
+        "jepang": "初めまして。マイク・ミラーです。",
+        "romaji": "Hajimemashite. Maiku Miraa desu.",
+        "arti": "Senang bertemu dengan Anda. Nama saya Mike Miller."
+      },
+      {
+        "pembicara": "Miller",
+        "jepang": "アメリカから来ました。どうぞよろしくお願いします。",
+        "romaji": "Amerika kara kimashita. Douzo yoroshiku onegaishimasu.",
+        "arti": "Saya datang dari Amerika. Mohon bantuannya."
+      },
+      {
+        "pembicara": "Satou",
+        "jepang": "佐藤慶子です。どうぞよろしくお願いします。",
+        "romaji": "Satou Keiko desu. Douzo yoroshiku onegaishimasu.",
+        "arti": "Saya Satou Keiko. Senang bertemu dengan Anda juga."
+      }
+    ]
+  }
+}
