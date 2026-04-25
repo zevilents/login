@@ -1,0 +1,313 @@
+{
+  "kanji": "一",
+  "hiragana": "いち",
+  "romaji": "ichi",
+  "arti": "Satu",
+  "onyomi": "イチ, イツ",
+  "kunyomi": "ひと(つ)",
+  "jumlahGoresan": 1,
+  "aturanBaca": "Gunakan Onyomi (イチ) saat menghitung secara berurutan atau dalam kata majemuk (kango). Gunakan Kunyomi (ひと) saat menggunakan penghitung benda '-tsu' atau saat berdiri sendiri sebagai kata benda asli Jepang.",
+  "visual": {
+    "asalUsul": "Berasal dari gambar satu jari atau satu batang kayu yang diletakkan secara horizontal untuk melambangkan angka satu.",
+    "duniaNyata": "Sering terlihat di lantai lift [1F], label harga, atau halaman pertama sebuah buku.",
+    "jebakanList": [
+      {
+        "artiPengecoh": "Dua",
+        "bacaanPengecoh": "に",
+        "kanjiPengecoh": "二",
+        "titikBeda": "Memiliki dua garis horizontal, bukan satu."
+      },
+      {
+        "artiPengecoh": "Tujuh",
+        "bacaanPengecoh": "なな",
+        "kanjiPengecoh": "七",
+        "titikBeda": "Memiliki garis vertikal yang memotong garis horizontal."
+      },
+      {
+        "artiPengecoh": "Tanah",
+        "bacaanPengecoh": "つち",
+        "kanjiPengecoh": "土",
+        "titikBeda": "Memiliki garis vertikal dan garis bawah yang lebih panjang."
+      }
+    ],
+    "mnemonic": "Bayangkan sebuah lidi yang diletakkan mendatar di atas meja. Itulah angka satu.",
+    "radikal": "一 (Ichi)",
+    "rumusKanji": "Kanji Dasar"
+  },
+  "kotoba": [
+    {
+      "arti": "Satu buah",
+      "jp": "[一つ](ひとつ)",
+      "kana": "ひとつ"
+    },
+    {
+      "arti": "Satu orang",
+      "jp": "[一人](ひとり)",
+      "kana": "ひとり"
+    },
+    {
+      "arti": "Januari",
+      "jp": "[一月](いちがつ)",
+      "kana": "いちがつ"
+    },
+    {
+      "arti": "Tanggal satu",
+      "jp": "[一日](ついたち)",
+      "kana": "ついたち"
+    },
+    {
+      "arti": "Satu tahun",
+      "jp": "[一年](いちねん)",
+      "kana": "いちねん"
+    },
+    {
+      "arti": "Nomor satu / Paling",
+      "jp": "[一番](いちばん)",
+      "kana": "いちばん"
+    },
+    {
+      "arti": "Bersama-sama",
+      "jp": "[一緒](いっしょ)",
+      "kana": "いっしょ"
+    }
+  ],
+  "rephrase": [
+    {
+      "arti": "Satu orang siswa",
+      "jp": "[一人](ひとり) の [学生](がくせい)",
+      "kana": "ひとりのがくせい"
+    },
+    {
+      "arti": "Paling murah",
+      "jp": "[一番](いちばん) [安](やす)い",
+      "kana": "いちばんやすい"
+    },
+    {
+      "arti": "Satu jam saja",
+      "jp": "[一時間](いちじかん) だけ",
+      "kana": "いちじかんだけ"
+    },
+    {
+      "arti": "Bersama teman",
+      "jp": "[友達](ともだち) と [一緒](いっしょ)",
+      "kana": "ともだちといっしょ"
+    },
+    {
+      "arti": "Sekali lagi",
+      "jp": "もう [一度](いちど)",
+      "kana": "もういちど"
+    }
+  ],
+  "sentenceBuilder": {
+    "basic": {
+      "arti": "Tolong satu buah apel.",
+      "jp": "[林檎](りんご) を [一つ](ひとつ) ください。",
+      "kana": "りんごをひとつください。",
+      "nuansa": "Permintaan standar di toko atau restoran.",
+      "partikel": "を (o) sebagai penanda objek.",
+      "perubahan": "Menggunakan kunyomi 'hitotsu'."
+    },
+    "grammarBank": {
+      "arti": "Saya pergi ke sekolah bersama teman.",
+      "jp": "[友達](ともだち) と [一緒](いっしょ) に [学校](がっこう) へ [行](い)きます。",
+      "kana": "ともだちといっしょにがっこうへいきます。",
+      "partikel": "と (to) menunjukkan penyerta, に (ni) menunjukkan keterangan cara.",
+      "perubahan": "Kata majemuk 'issho' (bersama).",
+      "pola": "[Orang] と [一緒](いっしょ) に"
+    },
+    "targetJLPT": {
+      "arti": "Siapa orang yang paling tinggi di kelas?",
+      "jp": "[教室](きょうしつ) で [誰](だれ) が [一番](いちばん) [背](せ) が [高](たか)い です か。",
+      "kana": "きょうしつでだれがいちばんせがたかいですか。",
+      "partikel": "で (de) menunjukkan ruang lingkup, が (ga) penanda subjek.",
+      "perubahan": "Ichiban sebagai kata keterangan tingkat superlatif.",
+      "pola": "[Lingkup] で [Subjek] が [一番](いちばん) [Kata Sifat]"
+    }
+  },
+  "drills": [
+    {
+      "artiKonteks": "Saya membeli satu buah roti.",
+      "instruksiID": "Tebak bacaan kanji yang di-bold.",
+      "jawabanBenarIndex": 0,
+      "opsi": [
+        "ひとつ",
+        "ふたつ",
+        "みっつ",
+        "よっつ"
+      ],
+      "penjelasanJawaban": "Kanji 一 yang diikuti okurigana 'tsu' dibaca 'hitotsu'.",
+      "soalJP": "パン を **[一つ](ひとつ)** [買](か)いました。",
+      "tipe": "TEBAK BACAAN"
+    },
+    {
+      "artiKonteks": "Saudara Tanaka adalah orang yang paling baik.",
+      "instruksiID": "Tebak arti dari kata yang di-bold.",
+      "jawabanBenarIndex": 1,
+      "opsi": [
+        "Terakhir",
+        "Nomor satu / Paling",
+        "Jelek",
+        "Cepat"
+      ],
+      "penjelasanJawaban": "'Ichiban' berarti nomor satu atau paling dalam tingkatan.",
+      "soalJP": "[田中](たなか) さん は **[一番](いちばん)** [優](やさ)しい です。",
+      "tipe": "TEBAK ARTI"
+    },
+    {
+      "artiKonteks": "Saya pergi ke Jepang sendirian (satu orang).",
+      "instruksiID": "Pilih kanji yang tepat untuk kata yang di-bold.",
+      "jawabanBenarIndex": 0,
+      "opsi": [
+        "一人",
+        "二人",
+        "大人",
+        "三日"
+      ],
+      "penjelasanJawaban": "Kata 'hitori' (satu orang) ditulis dengan kanji 一 dan 人.",
+      "soalJP": "**[ひとり](ひとり)** で [日本](にほん) へ [行](い)きます。",
+      "tipe": "TEBAK KANJI"
+    },
+    {
+      "artiKonteks": "Tahun ini adalah tahun yang sangat sibuk.",
+      "instruksiID": "Lengkapi bagian rumpang dalam kalimat.",
+      "jawabanBenarIndex": 2,
+      "opsi": [
+        "[一日](ついたち)",
+        "[一月](いちがつ)",
+        "[一年](いちねん)",
+        "[一度](いちど)"
+      ],
+      "penjelasanJawaban": "Konteks kalimat merujuk pada rentang waktu 'setahun' (ichinen).",
+      "soalJP": "こ の ___ は とても [忙](いそが)しい です。",
+      "tipe": "MELENGKAPI"
+    },
+    {
+      "artiKonteks": "Januari adalah bulan yang dingin.",
+      "instruksiID": "Tebak bacaan kanji yang di-bold.",
+      "jawabanBenarIndex": 3,
+      "opsi": [
+        "ひとつき",
+        "いちげつ",
+        "いっかつ",
+        "いちがつ"
+      ],
+      "penjelasanJawaban": "Bulan pertama (Januari) dibaca 'ichigatsu'.",
+      "soalJP": "**[一月](いちがつ)** は [寒](さむ)い です。",
+      "tipe": "TEBAK BACAAN"
+    }
+  ],
+  "recall": [
+    {
+      "hint": "Gunakan kanji angka dasar.",
+      "instruksi": "Ubah arti berikut menjadi kanji target.",
+      "jawaban": "一",
+      "kategori": "Angka",
+      "opsi": [
+        "一",
+        "二",
+        "三",
+        "十"
+      ],
+      "soal": "Satu",
+      "subSoal": [
+        {
+          "konteks": "Jumlah benda",
+          "kunci": "[一つ](ひとつ)",
+          "pertanyaan": "Satu buah"
+        },
+        {
+          "konteks": "Jumlah manusia",
+          "kunci": "[一人](ひとり)",
+          "pertanyaan": "Satu orang"
+        },
+        {
+          "konteks": "Urutan bulan",
+          "kunci": "[一月](いちがつ)",
+          "pertanyaan": "Januari"
+        },
+        {
+          "konteks": "Kalender",
+          "kunci": "[一日](ついたち)",
+          "pertanyaan": "Tanggal satu"
+        }
+      ],
+      "tipe": "REVERSE"
+    },
+    {
+      "hint": "Perhatikan konteks waktu dan jumlah.",
+      "instruksi": "Berikan cara baca dan arti untuk kanji berikut.",
+      "jawaban": "いち, ひと, いっ",
+      "kategori": "Kosakata",
+      "opsi": [],
+      "soal": "一",
+      "subSoal": [
+        {
+          "konteks": "Status usia",
+          "kunciArti": "Satu tahun",
+          "kunciHira": "いっさい",
+          "pertanyaan": "[一歳](いっさい)"
+        },
+        {
+          "konteks": "Kuantitas",
+          "kunciArti": "Satu buah",
+          "kunciHira": "ひとつ",
+          "pertanyaan": "[一つ](ひとつ)"
+        },
+        {
+          "konteks": "Waktu",
+          "kunciArti": "Jam satu",
+          "kunciHira": "いちじ",
+          "pertanyaan": "[一時](いちじ)"
+        },
+        {
+          "konteks": "Pengulangan",
+          "kunciArti": "Sekali lagi",
+          "kunciHira": "もういちど",
+          "pertanyaan": "もう [一度](いちど)"
+        }
+      ],
+      "tipe": "VOCAB"
+    },
+    {
+      "hint": "Cari yang hanya memiliki satu goresan horizontal.",
+      "instruksi": "Pilih kanji yang benar untuk arti: 'Satu'",
+      "jawaban": "一",
+      "kategori": "Bentuk",
+      "opsi": [
+        "一",
+        "二",
+        "三",
+        "乙"
+      ],
+      "soal": "Satu",
+      "subSoal": [],
+      "tipe": "CONNECTION"
+    },
+    {
+      "hint": "Salah satu bacaan ini bukan milik kanji 一.",
+      "instruksi": "Manakah dari pilihan berikut yang BUKAN bacaan kanji 一?",
+      "jawaban": "に",
+      "kategori": "Insting Bacaan",
+      "opsi": [
+        "いち",
+        "ひと",
+        "いっ",
+        "に"
+      ],
+      "soal": "一",
+      "subSoal": [],
+      "tipe": "INSTINCT"
+    },
+    {
+      "hint": "Ubah ke hiragana dan artikan ke Indonesia.",
+      "instruksi": "Terjemahkan kalimat lengkap berikut.",
+      "jawaban": "[一人](ひとり)で[学校](がっこう)へ[行](い)きます (Pergi ke sekolah sendirian)",
+      "kategori": "Kalimat",
+      "opsi": [],
+      "soal": "[一人](ひとり) で [学校](がっこう) へ [行](い)きます。",
+      "subSoal": [],
+      "tipe": "SENTENCE"
+    }
+  ],
+  "okurigana": "つ"
+}
